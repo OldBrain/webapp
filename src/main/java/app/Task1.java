@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-
+//http://localhost:8080/products/task1
 
 public class Task1 extends HttpServlet {
   private static Logger logger = LoggerFactory.getLogger(Task1.class);
